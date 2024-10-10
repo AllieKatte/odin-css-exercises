@@ -28,6 +28,11 @@ input {
   width: 400px;
 }
 
+a {
+  color: #666666;
+  text-decoration: none;
+}
+
 .header,
 .footer {
   display: flex;
