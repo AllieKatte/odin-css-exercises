@@ -41,6 +41,10 @@ ul {
   gap: 16px;
 }
 
+.content {
+  flex: 1;
+}
+
 .header,
 .footer {
   display: flex;
